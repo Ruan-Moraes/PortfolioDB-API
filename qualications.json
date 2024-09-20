@@ -1,0 +1,263 @@
+[
+  {
+    "name": "Curso de HTML5 e CSS3 - Módulo 1 até 4",
+    "description": "Curso de HTML5 e CSS3 do Curso em Vídeo.",
+    "topics_convered": ["Funcionamento da Web", "HTML5", "CSS3", "..."],
+    "duration": "40(4)",
+    "end_date": "2024-04-01 00:00:00",
+    "link": "https://www.linkedin.com/in/ruan-dev/details/certifications/",
+    "type": "Certificado"
+  },
+  {
+    "name": "Curso de Javascript",
+    "description": "Curso de JavaScript do Curso em Vídeo.",
+    "topics_convered": [
+      "Variáveis",
+      "Operadores",
+      "Estruturas condicionais",
+      "Estruturas de repetição",
+      "Funções",
+      "DOM",
+      "..."
+    ],
+    "duration": "40",
+    "end_date": "2024-06-01 00:00:00",
+    "link": "https://www.linkedin.com/in/ruan-dev/details/certifications/",
+    "type": "Certificado"
+  },
+  {
+    "name": "Curso de Git e GitHub",
+    "description": "Curso de Git e GitHub do Curso em Vídeo.",
+    "topics_convered": ["Git", "GitHub"],
+    "duration": "20",
+    "end_date": "2024-01-01 00:00:00",
+    "link": "https://www.linkedin.com/in/ruan-dev/details/certifications/",
+    "type": "Certificado"
+  },
+  {
+    "name": "Curso de Linux - Módulo 0 até 5",
+    "description": "Curso de Linux do Curso em Vídeo.",
+    "topics_convered": [
+      "Estrutura de diretórios",
+      "Comandos básicos",
+      "Permissões",
+      "Pacotes",
+      "Redes",
+      "Discos e RAID",
+      "..."
+    ],
+    "duration": "40(6)",
+    "end_date": "2024-01-01 00:00:00",
+    "link": "https://www.linkedin.com/in/ruan-dev/details/certifications/",
+    "type": "Certificado"
+  },
+  {
+    "name": "Java POO",
+    "description": "Curso de Java POO do Curso em Vídeo.",
+    "topics_convered": [
+      "Classes",
+      "Construtores",
+      "Objetos",
+      "Atributos",
+      "Métodos",
+      "Encapsulamento",
+      "Herança",
+      "Polimorfismo",
+      "Interfaces",
+      "..."
+    ],
+    "duration": "40",
+    "end_date": "2024-01-01 00:00:00",
+    "link": "https://www.linkedin.com/in/ruan-dev/details/certifications/",
+    "type": "Certificado"
+  },
+  {
+    "name": "Java Básico",
+    "description": "Curso de Java Básico do Curso em Vídeo.",
+    "topics_convered": [
+      "Tipos primitivos",
+      "Operadores",
+      "Estruturas condicionais",
+      "Estruturas de repetição",
+      "Vetores",
+      "..."
+    ],
+    "duration": "40",
+    "end_date": "2024-01-01 00:00:00",
+    "link": "https://www.linkedin.com/in/ruan-dev/details/certifications/",
+    "type": "Certificado"
+  },
+  {
+    "name": "MySQL",
+    "description": "Curso de MySQL do Curso em Vídeo.",
+    "topics_convered": [
+      "Comandos DDL",
+      "Comandos DML",
+      "Comandos DQL",
+      "Comandos DCL",
+      "..."
+    ],
+    "duration": "40",
+    "end_date": "2024-01-01 00:00:00",
+    "link": "https://www.linkedin.com/in/ruan-dev/details/certifications/",
+    "type": "Certificado"
+  },
+  {
+    "name": "Santander 2024 - Backend com Java",
+    "description": "Curso de Backend com Java do Santander.",
+    "topics_convered": ["Java", "Spring Boot", "MySQL", "MongoDB", "..."],
+    "duration": "87",
+    "end_date": "2024-01-01 00:00:00",
+    "link": "https://hermes.dio.me/certificates/PHJEFGEN.pdf",
+    "type": "Certificado"
+  },
+  {
+    "name": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+    "description": "Curso de JavaScript do básico ao avançado com Node.js e projetos.",
+    "topics_convered": ["JavaScript", "Node.js", "Express", "MySQL", "..."],
+    "duration": "23",
+    "end_date": "2024-01-01 00:00:00",
+    "link": "https://www.udemy.com/certificate/UC-fca34380-7b03-406d-9800-1b151335832c/",
+    "type": "Certificado"
+  },
+  {
+    "name": "NPM da instalação a publicação (Node Package Manager)",
+    "description": "Curso de NPM.",
+    "topics_convered": ["NPM"],
+    "duration": "4",
+    "end_date": "2024-01-01 00:00:00",
+    "link": "https://www.udemy.com/certificate/UC-45f7f50a-ec33-46cf-a25d-bfe4f2b2dbb7/",
+    "type": "Certificado"
+  },
+  {
+    "name": "Git e GitHub do básico ao avançado (c/ gist e GitHub Pages)",
+    "description": "Curso de Git e GitHub do básico ao avançado com gist e GitHub Pages.",
+    "topics_convered": ["Git", "GitHub", "Gist", "GitHub Pages"],
+    "duration": "8",
+    "end_date": "2024-01-01 00:00:00",
+    "link": "https://www.udemy.com/certificate/UC-b9eb5669-b222-47f5-ab88-39ddef43a78e/",
+    "type": "Certificado"
+  },
+  {
+    "name": "Potência Tech iFood - Desenvolvimento de Jogos",
+    "description": "Curso de Javascript com foco em desenvolvimento de jogos (web).",
+    "topics_convered": ["JavaScript", "..."],
+    "duration": "77",
+    "end_date": "2024-01-01 00:00:00",
+    "link": "https://hermes.dio.me/certificates/K0Y9UYH4.pdf",
+    "type": "Certificado"
+  },
+  {
+    "name": "Visual Studio Code: Produtividade Absoluta",
+    "description": "Curso de Visual Studio Code.",
+    "topics_convered": ["Visual Studio Code"],
+    "duration": "4",
+    "end_date": "2024-01-01 00:00:00",
+    "link": "https://www.udemy.com/certificate/UC-eb1ff4b5-12e2-4cf5-a041-70d09809bdaa/",
+    "type": "Certificado"
+  },
+  {
+    "name": "SASS e SCSS do básico ao avançado + Projetos",
+    "description": "Curso de SASS e SCSS do básico ao avançado com projetos.",
+    "topics_convered": ["SASS", "SCSS", "..."],
+    "duration": "14",
+    "end_date": "2024-01-01 00:00:00",
+    "link": "https://www.udemy.com/certificate/UC-df57fceb-4d6f-490c-9ea5-ca017ebdf803/",
+    "type": "Certificado"
+  },
+  {
+    "name": "Bootstrap 5 do básico ao avançado (com 4 projetos)",
+    "description": "Curso de Bootstrap 5 do básico ao avançado.",
+    "topics_convered": ["Bootstrap 5", "..."],
+    "duration": "16",
+    "end_date": "2024-01-01 00:00:00",
+    "link": "https://www.udemy.com/certificate/UC-09be9a09-ebf3-40ea-8db8-eb1d3ade5da6/",
+    "type": "Certificado"
+  },
+  {
+    "name": "Tailwind CSS do básico ao avançado + Projetos",
+    "description": "Curso de Tailwind CSS do básico ao avançado com projetos.",
+    "topics_convered": ["Tailwind CSS", "..."],
+    "duration": "16",
+    "end_date": "2024-01-01 00:00:00",
+    "link": "https://www.udemy.com/certificate/UC-f9e7392e-ff4c-4c9b-9ce1-f336e7d6a79a/",
+    "type": "Certificado"
+  }
+]
+
+INSERT INTO qualifications (name, description, topics_convered, duration, end_date, link, type)
+VALUES 
+('Curso de HTML5 e CSS3 - Módulo 1 até 4', 'Curso de HTML5 e CSS3 do Curso em Vídeo.', 
+ 'Funcionamento da Web. - HTML5. - CSS3. - ...', '40(4)', '2024-04-01 00:00:00', 
+ 'https://www.linkedin.com/in/ruan-dev/details/certifications/', 'Certificado'),
+
+('Curso de Javascript', 'Curso de JavaScript do Curso em Vídeo.', 
+ 'Variáveis. - Operadores. - Estruturas condicionais. - Estruturas de repetição. - Funções. - DOM. - ...', 
+ '40', '2024-06-01 00:00:00', 'https://www.linkedin.com/in/ruan-dev/details/certifications/', 'Certificado'),
+
+('Curso de Git e GitHub', 'Curso de Git e GitHub do Curso em Vídeo.', 
+ 'Git. - GitHub.', '20', '2024-01-01 00:00:00', 
+ 'https://www.linkedin.com/in/ruan-dev/details/certifications/', 'Certificado'),
+
+('Curso de Linux - Módulo 0 até 5', 'Curso de Linux do Curso em Vídeo.', 
+ 'Estrutura de diretórios. - Comandos básicos. - Permissões. - Pacotes. - Redes. - Discos e RAID. - ...', 
+ '40(6)', '2024-01-01 00:00:00', 'https://www.linkedin.com/in/ruan-dev/details/certifications/', 'Certificado'),
+
+('Java POO', 'Curso de Java POO do Curso em Vídeo.', 
+ 'Classes. - Construtores. - Objetos. - Atributos. - Métodos. - Encapsulamento. - Herança. - Polimorfismo. - Interfaces. - ...', 
+ '40', '2024-01-01 00:00:00', 
+ 'https://www.linkedin.com/in/ruan-dev/details/certifications/', 'Certificado'),
+
+('Java Básico', 'Curso de Java Básico do Curso em Vídeo.', 
+ 'Tipos primitivos. - Operadores. - Estruturas condicionais. - Estruturas de repetição. - Vetores. - ...', 
+ '40', '2024-01-01 00:00:00', 
+ 'https://www.linkedin.com/in/ruan-dev/details/certifications/', 'Certificado'),
+
+('MySQL', 'Curso de MySQL do Curso em Vídeo.', 
+ 'Comandos DDL. - Comandos DML. - Comandos DQL. - Comandos DCL. - ...', 
+ '40', '2024-01-01 00:00:00', 
+ 'https://www.linkedin.com/in/ruan-dev/details/certifications/', 'Certificado'),
+
+('Santander 2024 - Backend com Java', 'Curso de Backend com Java do Santander.', 
+ 'Java. - Spring Boot. - MySQL. - MongoDB. - ...', 
+ '87', '2024-01-01 00:00:00', 
+ 'https://hermes.dio.me/certificates/PHJEFGEN.pdf', 'Certificado'),
+
+('JavaScript do básico ao avançado (c/ Node.js e projetos)', 
+ 'Curso de JavaScript do básico ao avançado com Node.js e projetos.', 
+ 'JavaScript. - Node.js. - Express. - MySQL. - ...', 
+ '23', '2024-01-01 00:00:00', 
+ 'https://www.udemy.com/certificate/UC-fca34380-7b03-406d-9800-1b151335832c/', 'Certificado'),
+
+('NPM da instalação a publicação (Node Package Manager)', 'Curso de NPM.', 
+ 'NPM.', '4', '2024-01-01 00:00:00', 
+ 'https://www.udemy.com/certificate/UC-45f7f50a-ec33-46cf-a25d-bfe4f2b2dbb7/', 'Certificado'),
+
+('Git e GitHub do básico ao avançado (c/ gist e GitHub Pages)', 
+ 'Curso de Git e GitHub do básico ao avançado com gist e GitHub Pages.', 
+ 'Git. - GitHub. - Gist. - GitHub Pages.', '8', '2024-01-01 00:00:00', 
+ 'https://www.udemy.com/certificate/UC-b9eb5669-b222-47f5-ab88-39ddef43a78e/', 'Certificado'),
+
+('Potência Tech iFood - Desenvolvimento de Jogos', 
+ 'Curso de Javascript com foco em desenvolvimento de jogos (web).', 
+ 'JavaScript. - ...', '77', '2024-01-01 00:00:00', 
+ 'https://hermes.dio.me/certificates/K0Y9UYH4.pdf', 'Certificado'),
+
+('Visual Studio Code: Produtividade Absoluta', 'Curso de Visual Studio Code.', 
+ 'Visual Studio Code.', '4', '2024-01-01 00:00:00', 
+ 'https://www.udemy.com/certificate/UC-eb1ff4b5-12e2-4cf5-a041-70d09809bdaa/', 'Certificado'),
+
+('SASS e SCSS do básico ao avançado + Projetos', 
+ 'Curso de SASS e SCSS do básico ao avançado com projetos.', 
+ 'SASS. - SCSS. - ...', '14', '2024-01-01 00:00:00', 
+ 'https://www.udemy.com/certificate/UC-df57fceb-4d6f-490c-9ea5-ca017ebdf803/', 'Certificado'),
+
+('Bootstrap 5 do básico ao avançado (com 4 projetos)', 
+ 'Curso de Bootstrap 5 do básico ao avançado.', 
+ 'Bootstrap 5. - ...', '16', '2024-01-01 00:00:00', 
+ 'https://www.udemy.com/certificate/UC-09be9a09-ebf3-40ea-8db8-eb1d3ade5da6/', 'Certificado'),
+
+('Tailwind CSS do básico ao avançado + Projetos', 
+ 'Curso de Tailwind CSS do básico ao avançado com projetos.', 
+ 'Tailwind CSS. - ...', '16', '2024-01-01 00:00:00', 
+ 'https://www.udemy.com/certificate/UC-f9e7392e-ff4c-4c9b-9ce1-f336e7d6a79a/', 'Certificado');
